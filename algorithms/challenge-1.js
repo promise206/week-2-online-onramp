@@ -6,11 +6,11 @@ function missingNumber(numArr) {
     }
   }
   if (missing.length === 0) {
-    console.log("No missing number");
+    return false;
   } else if (missing.length === 1) {
-    console.log(missing);
+    return missing;
   } else {
-    console.log(missing);
+    return missing;
   }
 }
 module.exports = missingNumber;
