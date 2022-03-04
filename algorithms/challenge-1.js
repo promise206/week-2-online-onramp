@@ -3,9 +3,12 @@ function missingNumber(numArr) {
   for (let i = 1; i <= 9; i++) {
     if (numArr.indexOf(i) === -1) {
       missing.push(i);
-      console.log(missing);
     }
   }
+  if (missing.length == 0) {
+    console.log("No missing number");
+  } else {
+    console.log(missing);
+  }
 }
-
 module.exports = missingNumber;
