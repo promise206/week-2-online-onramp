@@ -5,7 +5,7 @@ function missingNumber(numArr) {
       missing.push(i);
     }
   }
-  if (missing.length == 0) {
+  if (missing.length === 0) {
     console.log("No missing number");
   } else {
     console.log(missing);
