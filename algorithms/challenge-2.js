@@ -10,9 +10,10 @@ function numSwap(number) {
         arrayNum[2 * i]
       ];
     }
-    return arrayNum;
+    let joinArrayNum = arrayNum.join("");
+    return joinArrayNum;
   } else {
-    return "The Length of the  Number must be Even";
+    console.log("The Length of the Number Must be Even");
   }
 }
 module.exports = numSwap;
