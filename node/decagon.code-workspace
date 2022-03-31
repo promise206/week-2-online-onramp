@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\node"
+		},
+		{
+			"path": "..\\..\\Users\\OKPALAOGO CHUKWUKA\\Desktop\\clock"
+		},
+		{
+			"path": "..\\..\\crashcourse"
+		},
+		{
+			"path": "..\\..\\decagon"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "decagon"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\node"
+		},
+		{
+			"path": "..\\decagon"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\scrimba"
+		},
+		{
+			"path": "..\\clock"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "crashcourse"
+	}
+}
